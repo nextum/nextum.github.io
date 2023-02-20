@@ -40,7 +40,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#nextum">About</a></li>
+    <li><a href="#about">About</a></li>
       <a href="#contributing">Contributing</a>
       <ul>
         <li><a href="#template">Template</a></li>
@@ -52,7 +52,7 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## Nextum
+## About
 
 [![Product Name Screen Shot][product-screenshot]](https://nextum.github.io/)
 
