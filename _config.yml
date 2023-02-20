@@ -3,3 +3,13 @@ description: todo
 theme: just-the-docs
 
 url: https://nextum.github.io
+
+search:
+  button: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "GitHub":
+    - "https://github.com/nextum/nextum.github.io"
+  "Issues":
+  - "https://github.com/nextum/nextum.github.io/issues"
