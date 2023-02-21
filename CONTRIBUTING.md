@@ -40,7 +40,7 @@ We will then try to answer your question as soon as possible.
 1. Click on [![New Entry][new-entry-shield]][new-entry-url]
 2. On the right side choose the Label **New Entry**
 3. As title enter *only* the Latin word you want to add
-4. Then in the textbox enter the markdown of the entry you want add.
+4. Then in the textbox enter the markdown of the entry you want to add.
 
 ## Formatting
 
