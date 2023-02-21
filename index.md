@@ -1,6 +1,7 @@
 ---
 title: Welcome
 layout: default
+nav_exclude: true
 ---
 
 <h1 align="center">NEXTUM</h1>

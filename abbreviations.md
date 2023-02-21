@@ -1,6 +1,7 @@
 ---
 title: Abbreviations
 layout: default
+nav_exclude: true
 ---
 |  | Français |  English | Deutsch |
 | --- | --- | --- |--- |
