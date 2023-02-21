@@ -6,11 +6,9 @@ layout: default
 <h1 align="center">NEXTUM</h1>
 
 <h3 align="center">Dictionnaire Latin — Latin Dictionary — Lateinisches Wörterbuch</h3>
+<br>
+<p align="center">Nextum is a Latin - French/English/German Dictionary. <br> See <a href="https://github.com/nextum/nextum.github.io">README.md</a> for more information.</p>
 
-<p align="center">Nextum is a Latin - French/English/German Dictionary. <br> See <a href="https://github.com/nextum/nextum.github.io">README.md/a> for more information.</p>
-
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <p align="center">
     <br />
