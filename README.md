@@ -41,12 +41,12 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about">About</a></li>
-      <a href="#contributing">Contributing</a>
       <ul>
         <li><a href="#template">Template</a></li>
         <li><a href="#style-guide">Style Guide</a></li>
       </ul>
     </li>
+    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
   </ol>
 </details>
@@ -65,29 +65,21 @@
 <!-- CONTRIBUTING -->
 ## Contributing
 
-TODO
-
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-
-### Template
-
-TODO
-
-### Style Guide
-
-TODO
+See <a href="https://github.com/nextum/nextum.github.io/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a> for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Cities
+- [ ] Countries
+- [ ] Biology
+- [ ] Chemistry
+    - [ ] Elements
+    - [ ] Organic compounds
 
 See the [open issues](https://github.com/nextum/nextum.github.io/issues) for a full list of proposed features (and known issues).
 
