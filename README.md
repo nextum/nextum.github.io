@@ -100,4 +100,4 @@ See the [open issues](https://github.com/nextum/nextum.github.io/issues) for a f
 [last-commit-url]: https://github.com/nextum/nextum.github.io/commits
 [issues-shield]: https://img.shields.io/github/issues/nextum/nextum.github.io?style=for-the-badge
 [issues-url]: https://github.com/nextum/nextum.github.io/issues
-[product-screenshot]: https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/images/screenshot.png
+[product-screenshot]: https://raw.githubusercontent.com/nextum/nextum.github.io/main/screenshot.jpeg
