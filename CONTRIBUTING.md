@@ -35,7 +35,9 @@ We will then try to answer your question as soon as possible.
 
 ## How to suggest a new entry
 
-1. Go to [![New Entry][new-entry-shield]][new-entry-url]
+> Note: You need a free github account to suggest a new entry. You can create one [here](https://github.com/signup).
+
+1. Click on [![New Entry][new-entry-shield]][new-entry-url]
 2. On the right side choose the Label **New Entry**
 3. As title enter *only* the Latin word you want to add
 4. Then in the textbox enter the markdown of the entry you want add.
