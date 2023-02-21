@@ -35,22 +35,6 @@
   </p>
 </div>
 
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#about">About</a></li>
-      <ul>
-        <li><a href="#template">Template</a></li>
-        <li><a href="#style-guide">Style Guide</a></li>
-      </ul>
-    </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-  </ol>
-</details>
-
 <!-- ABOUT THE PROJECT -->
 ## About
 
