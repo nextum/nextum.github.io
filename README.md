@@ -53,7 +53,7 @@ Contributions are what makes the github community such an amazing place to learn
 
 See <a href="https://github.com/nextum/nextum.github.io/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a> for more information.
 
-> Note you can also contribute, if you don't know all languages used in the dictionary (French, English, German). Just help in the language you know.
+> You can also contribute, if you only know one of the languages used in the dictionary (French, English, German). Just contribute in the language you know.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
