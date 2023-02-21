@@ -62,7 +62,7 @@ See <a href="https://github.com/nextum/nextum.github.io/blob/main/CONTRIBUTING.m
 - [ ] Countries
 - [ ] Biology
 - [ ] Chemistry
-    - [ ] Elements
+    - [ ] [Elements](https://github.com/nextum/nextum.github.io/issues/9)
     - [ ] [Organic compounds](https://github.com/nextum/nextum.github.io/issues/8)
 
 See the [open issues](https://github.com/nextum/nextum.github.io/issues) for a full list of proposed features (and known issues).
