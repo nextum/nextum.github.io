@@ -15,7 +15,7 @@ nav_exclude: true
 <img src="https://img.shields.io/github/directory-file-count/nextum/nextum.github.io/a-z?label=Entries&style=for-the-badge" alt="text describing the image">
 </a></p>
 
-> Nextum is still in an early an early stage. Updates are coming soon. Any help is appreciated.
+> Nextum is still in an early stage of development.
 
 <div align="center">
   <p align="center">
