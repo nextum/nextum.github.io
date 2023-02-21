@@ -29,7 +29,7 @@
     <br />
     <a href="https://github.com/nextum/nextum.github.io/issues/new">Report Issue</a>
     ·
-    <a href="https://github.com/nextum/nextum.github.io/blob/main/CONTRIBUTE.md">Contribute</a>
+    <a href="https://github.com/nextum/nextum.github.io/blob/main/CONTRIBUTING.md">Contribute</a>
     ·
     <a href="https://github.com/nextum/nextum.github.io/discussions">Discussions</a>
   </p>
