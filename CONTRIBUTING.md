@@ -33,7 +33,7 @@ We will then try to answer your question as soon as possible.
 - Words are written lowercase, except for proper nouns which are capitalized.
 - The letters **v** and **j** are uesed when appropriate. 
 
-## How to add a new entry
+## How to suggest a new entry
 
 1. Go to [![New Entry][new-entry-shield]][new-entry-url]
 2. On the right side choose the Label **New Entry**
