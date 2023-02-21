@@ -74,7 +74,7 @@ See the [open issues](https://github.com/nextum/nextum.github.io/issues) for a f
 
 [nextum-shield]: https://img.shields.io/badge/-Nextum-blueviolet?style=for-the-badge
 [nextum-url]: https://nextum.github.io/
-[entries-shield]: https://img.shields.io/github/directory-file-count/nextum/nextum.github.io/A-Z?label=Entries&style=for-the-badge
+[entries-shield]: https://img.shields.io/github/directory-file-count/nextum/nextum.github.io/a-z?label=Entries&style=for-the-badge
 [entries-url]: https://github.com/nextum/nextum.github.io/tree/main/a-z
 [build-shield]: https://img.shields.io/github/actions/workflow/status/nextum/nextum.github.io/pages.yml?style=for-the-badge
 [build-url]: https://github.com/nextum/nextum.github.io/actions/workflows/pages.yml
