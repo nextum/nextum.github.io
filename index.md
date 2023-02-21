@@ -9,6 +9,11 @@ layout: default
 <br>
 <p align="center">Nextum is a Latin - French/English/German Dictionary. <br> See <a href="https://github.com/nextum/nextum.github.io">README.md</a> for more information.</p>
 
+<p align="center">
+<a href="https://nextum.github.io/A-Z/">
+<img src="https://img.shields.io/github/directory-file-count/nextum/nextum.github.io/A-Z?label=Entries&style=for-the-badge" alt="text describing the image">
+</a></p>
+
 <div align="center">
   <p align="center">
     <br />
