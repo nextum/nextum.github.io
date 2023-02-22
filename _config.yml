@@ -7,6 +7,8 @@ url: https://nextum.github.io
 search:
   button: true
 
+nav_sort: case_insensitive
+
 # Aux links for the upper right navigation
 aux_links:
   "GitHub":
