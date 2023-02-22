@@ -69,7 +69,7 @@ You can also contribute, if you only know one of the languages used in the dicti
 ```
 
 [ask-a-question-shield]: https://img.shields.io/badge/-Ask%20a%20Question-blue?style=for-the-badge&logo=CodeFactor
-[ask-a-question-url]: https://github.com/nextum/nextum.github.io/discussions/new?category=q-a
+[ask-a-question-url]: https://github.com/nextum/nextum.github.io/issues/new
 
 [new-entry-shield]: https://img.shields.io/badge/-New%20Entry-green?style=flat-square&logo=CodeFactor
 [new-entry-url]: https://github.com/nextum/nextum.github.io/issues/new
