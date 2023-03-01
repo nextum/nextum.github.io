@@ -16,6 +16,8 @@ nav_exclude: true
 | gen. | *génitif*  | *genitive*  | *Genetiv* |
 | gr. | *grec*  | *Greek*  | *griechisch* |
 | hebr. | *hébraïque*  | *Hebraic*  | *hebräisch* |
+| interj. | *interjection*  | *interjection*  | *Interjektion* |
+| interr. | *interrogatif*  | *interrogative*  | *Interrogativ* |
 | irr. | *irrégulier*  | *irregular*  | *irregulär* |
 | jp. | *japonais*  | *Japanese*  | *japanisch* |
 | lat.  | *latin* | *Latin* | *lateinisch* |
@@ -23,6 +25,8 @@ nav_exclude: true
 | nom. | *nominatif*  | *nominative* |  *Nominativ* |
 | n. | *neutre*  | *neuter* |  *Neutrum* |
 | pl. | *pluriel*  | *plural* |  *Plural* |
+| pro. | *pronom*  | *pronoun* |  *Pronomen* |
 | prov. | *proverbe*  | *proverb* |  *Sprichwort* |
+| rel. | *relatif*  | *relative* |  *Relativ* |
 | sg. | *singulier*  | *singular* |  *Singular* |
 | v.  | *verbe* | *verb* | *Verb* |
