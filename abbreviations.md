@@ -25,6 +25,7 @@ nav_exclude: true
 | nom. | *nominatif*  | *nominative* |  *Nominativ* |
 | n. | *neutre*  | *neuter* |  *Neutrum* |
 | pl. | *pluriel*  | *plural* |  *Plural* |
+| praep. | *préposition*  | *preposition* |  *Präposition* |
 | pro. | *pronom*  | *pronoun* |  *Pronomen* |
 | prov. | *proverbe*  | *proverb* |  *Sprichwort* |
 | rel. | *relatif*  | *relative* |  *Relativ* |
