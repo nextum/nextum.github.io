@@ -16,6 +16,7 @@ nav_exclude: true
 | gen. | *génitif*  | *genitive*  | *Genetiv* |
 | gr. | *grec*  | *Greek*  | *griechisch* |
 | hebr. | *hébraïque*  | *Hebraic*  | *hebräisch* |
+| ind. | *indéclinable*  | *indeclinable*  | *indeklinabel* |
 | interj. | *interjection*  | *interjection*  | *Interjektion* |
 | interr. | *interrogatif*  | *interrogative*  | *Interrogativ* |
 | irr. | *irrégulier*  | *irregular*  | *irregulär* |
