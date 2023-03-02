@@ -3,4 +3,4 @@ title: fenestra
 layout: default
 ---
 
-**fenestra** n. *fenêtre — window — Fenster*
+**fenestra** f. *fenêtre — window — Fenster*
