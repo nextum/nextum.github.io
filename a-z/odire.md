@@ -3,4 +3,4 @@ title: odire
 layout: default
 ---
 
-**odire** v. *haïr — to hate — hassen*
+**odire** v. (+acc.) *haïr — to hate — hassen*
